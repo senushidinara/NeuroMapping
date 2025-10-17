@@ -87,6 +87,7 @@
   <div align="center">
     <h3>***🎨 Cognitive Risk Heatmap***</h3>
     <p>> ░ Low | ▒ Medium | ▓ High | █ Very High</p>
+    
     <table>
       <thead>
         <tr>
@@ -168,9 +169,7 @@
     <h3>***💻 Interactive Features (Examples)***</h3>
     <p>LaTeX formulas:</p>
     <p>Inline: $Risk = \sum_i w_i f_i(x)/N$</p>
-    $$
-    SNR = 10 \log_{10} \left(\frac{P_{\text{signal}}}{P_{\text{noise}}}\right)
-    $$
+    <p>$$SNR = 10 \log_{10} \left(\frac{P_{\text{signal}}}{P_{\text{noise}}}\right)$$</p>
   </div>
 
   <hr>
@@ -235,4 +234,3 @@
   </div>
 
 </details>
-

@@ -1,27 +1,19 @@
 <details open>
   <summary>
     <div align="center">
-      <!-- Banner Images (Dark/Light Mode) -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-        <img src="./assets/banner-light.png" alt="NeuroMapping Banner" width="100%">
-      </picture>
-      <br>
+      <!-- Banner Image -->
+      <img src="https://claim-markup-58201942.figma.site/file/banner.png" alt="NeuroMapping Banner" width="100%">
+      <br><br>
       
-      <!-- Typing Effect Simulation (Static Image) -->
-      <img src="./assets/typing-banner.png" alt="Typing Effect Simulation" width="80%">
-      <br>
-      
-      <!-- Netlify Demo Badge -->
+      <!-- Netlify Demo Button -->
       <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
-        <img src="./assets/live-demo-badge.png" alt="Netlify Demo" width="200">
+        <img src="https://claim-markup-58201942.figma.site/file/demo-button.png" alt="Live Demo" width="200">
       </a>
     </div>
   </summary>
 
   <br>
 
-  <!-- Overview -->
   <p align="center">
     <strong>🌍 Overview</strong><br><br>
     NeuroMapping makes <strong>cognitive awareness accessible worldwide</strong> 🌱<br>
@@ -30,7 +22,6 @@
 
   <hr>
 
-  <!-- Features -->
   <p align="center"><strong>🔹 Features</strong></p>
   <ul>
     <li>Generates <strong>cognitive heatmaps</strong> 🔥 based on EEG signals ⚡</li>
@@ -42,7 +33,6 @@
 
   <hr>
 
-  <!-- Architecture & Workflow -->
   <p align="center"><strong>🏗 Architecture & Workflow</strong></p>
   <p align="center">
     🧠 EEG Signals → 🔄 Preprocessing → ⏱ Temporal + 🌐 Spatial → CNN + Transformer<br>
@@ -53,7 +43,6 @@
 
   <hr>
 
-  <!-- Cognitive Risk Heatmap -->
   <p align="center"><strong>🎨 Cognitive Risk Heatmap</strong></p>
   > ░ Low | ▒ Medium | ▓ High | █ Very High
 
@@ -75,7 +64,6 @@
 
   <hr>
 
-  <!-- KPI & Metrics -->
   <p align="center"><strong>📊 KPI & Metrics</strong></p>
   <p align="center">
     Awareness: 87% 🌟 &nbsp; | &nbsp; Engagement: 76% 🎯 &nbsp; | &nbsp; Prediction Accuracy: 91% 🤖 &nbsp; | &nbsp; Session Logs: Participant engagement tracked 📋 🔄
@@ -83,34 +71,24 @@
 
   <hr>
 
-  <!-- Interactive Features -->
   <p align="center"><strong>💻 Interactive Features</strong></p>
   <p align="center">
     Real-time dashboard mock: <code>[EEG → Heatmap → KPI → Leaderboard 🔄]</code><br>
-    LaTeX formulas:<br>
-    Inline: <code>$Risk = \sum_i w_i f_i(x)/N$</code><br>
-    Block:<br>
-    $$
-    SNR = 10 \log_{10} \left(\frac{P_{\text{signal}}}{P_{\text{noise}}}\right)
-    $$
+    Risk formula:<br>
+    <code>Risk = Σ(w_i * f_i(x))/N</code>
   </p>
 
   <hr>
 
-  <!-- Tech Stack / Badges -->
-  <p align="center"><strong>🖼 Tech Stack & Badges</strong></p>
+  <p align="center"><strong>🖼 Dashboard Images</strong></p>
   <div align="center">
-    <img src="./assets/python-badge.png" alt="Python" width="150">
-    <img src="./assets/tensorflow-badge.png" alt="TensorFlow" width="150">
-    <br>
-    <img src="./assets/demo-1.png" alt="Dashboard Demo 1" width="45%">
+    <img src="https://claim-markup-58201942.figma.site/file/dashboard-1.png" alt="Dashboard 1" width="45%">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/demo-2.png" alt="Dashboard Demo 2" width="45%">
+    <img src="https://claim-markup-58201942.figma.site/file/dashboard-2.png" alt="Dashboard 2" width="45%">
   </div>
 
   <hr>
 
-  <!-- Vision Manifesto -->
   <p align="center"><strong>💬 Vision Manifesto</strong></p>
   <p align="center">
     “Technology was never meant to dominate nature — it was meant to <em>understand</em> it.<br>

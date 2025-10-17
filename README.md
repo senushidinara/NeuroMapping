@@ -1,213 +1,173 @@
+
+
 <details open>
-  <summary>
-    <div align="center">
-      ***⚡ Enermark: Cognitive Insight Engine ⚡***  
-      <br>
-      [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
-      <br>
-      Interactive, AI-driven cognitive safety system 🌍🧠
-    </div>
-  </summary>
+<summary>
+<div align="center">
+***⚡ NeuroMapping: Cognitive Safety System ⚡***  
+AI-driven Cognitive Risk Awareness 🌍🧠 | Status: 🟢 Active
+</div>
+</summary>
 
-  <br>
+<br>
 
-  <p align="center">
-    ***🌍 Overview***<br>
-    Enermark makes **cognitive awareness and risk assessment accessible globally** 🌱<br>
-    Combines **AI simulations + visual dashboards + gamified community engagement** 🎨🤖
-  </p>
+<p align="center">
+***🌍 Overview***  
+NeuroMapping makes **cognitive awareness accessible worldwide** 🌱.  
+Combines **AI simulations, ASCII dashboards & gamified metrics**, helping communities **understand, track & mitigate cognitive risks** 🎨🤖
+</p>
 
-  <hr>
+<hr>
 
-  <p align="center">
-    ***🔹 Key Features***  
-  </p>
-  <ul>
-    <li>Generates **cognitive heatmaps** 🔥 from EEG & simulated signals ⚡</li>
-    <li>Processes signals using **CNN + Transformer ensemble** 🧠</li>
-    <li>Tracks engagement metrics 📊 and awareness across communities</li>
-    <li>Fully software-based, scalable, reproducible 🌐</li>
-    <li>Interactive dashboards and visual insights 🎯</li>
-    <li>Gamified challenges and leaderboards 🏆</li>
-  </ul>
+<details>
+<summary>🔹 Features & Capabilities</summary>
 
-  <hr>
-
-  <p align="center">
-    ***🏗 Architecture & Workflow***  
-  </p>
-
-  <pre>
-        🧠 EEG Signals (Input Data)
-                     │
-                     ▼
-               🔄 Preprocessing
-      Noise Filtering & Feature Extraction
-                     │
-     ┌───────────────┼───────────────┐
-     │               │               │
- Temporal ⏱️     Spatial 🌐     🤖 CNN + Transformer
- Features          Features      Ensemble Model
-                                  - CNN: Spatial Patterns
-                                  - Transformer: Sequences
-                     │
-                     ▼
-             ┌─────────────────┐
-             │  Risk Scoring 📊 │
-             └─────────────────┘
-                     │
-                     ▼
-             ┌────────────────────┐
-             │ Confidence Levels  │
-             └────────────────────┘
-                     │
-                     ▼
-             ┌────────────────────┐
-             │ Interactive Dashboard │
-             └────────────────────┘
-  </pre>
-
-  <hr>
-
-  <p align="center">
-    ***🎨 Cognitive Risk Heatmap***  
-  </p>
-  > ░ Low | ▒ Medium | ▓ High | █ Very High
-
-  | Zone | Score | Heat          |
-  |:----:|:-----:|:-------------|
-  | A1   | 8/10  | ████████ ▓▓▒░ |
-  | A2   | 6/10  | ▓▓▓▓ ▓▒░▒▓    |
-  | A3   | 5/10  | ▒▒▒ ▒▒░▓▒    |
-  | A4   | 1/10  | ░ ░░░▒░      |
-  | A5   | 5/10  | ▒▒▒ ▒▒▒▓░    |
-  | A6   | 2/10  | ░ ░▒░░       |
-  | B1   | 6/10  | ▓▓▓ ▓▓▒▒     |
-  | B2   | 6/10  | ▓▓▓ ▓▒▓▒     |
-  | B3   | 5/10  | ▒▒▒ ▒░▒▒     |
-  | C1   | 8/10  | ███████ █▓▒▒░ |
-  | C2   | 5/10  | ▒▒▒ ▒░▓▒     |
-  | C3   | 5/10  | ▒▒▒ ▒░▒▒     |
-
-  <hr>
-
-  <p align="center">
-    ***📊 KPI & Metrics***  
-  </p>
-
-  Awareness: █████████ 87% 🌟 &nbsp; | &nbsp; Engagement: ███████░░ 76% 🎯  
-  Prediction Accuracy: ██████████ 91% 🤖 &nbsp; | &nbsp; Session Logs: Tracked 📋
-
-  <hr>
-
-  <p align="center">
-    ***🧩 Modules***  
-  </p>
-  <ul>
-    <li>/modules/bio_core → Life-energy intake 🔄</li>
-    <li>/modules/neurosync → Cognitive harmonizer ⚡</li>
-    <li>/modules/cloud_map → Contextual translator 🌐</li>
-    <li>/modules/feedback → Adaptive control mesh 🔁</li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
-    ***💻 Interactive Features***  
-  </p>
-
-  <ul>
-    <li>Real-time dashboard simulation: <code>[EEG → Heatmap → KPI → Leaderboard 🔄]</code></li>
-    <li>Interactive LaTeX formulas: <code>$Risk = \sum_i w_i f_i(x)/N$</code></li>
-    <li>Community Tracker: Gamified challenges and leaderboard engagement 🎯</li>
-    <li>Adjustable SNR formula:
-      <br>
-      <code>SNR = 10 log10(P_signal / P_noise)</code>
-    </li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
-    ***🌍 Community Engagement & Gamification***  
-  </p>
-
-  <ul>
-    <li>🏆 Awareness Sessions: 47</li>
-    <li>🏅 Peers Educated: 12</li>
-    <li>✅ Assessments Completed: 3</li>
-    <li>Leaderboard Placeholder: `[LIVE RANKING → 🔥🔥🔥]`</li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
-    ***🚀 Deployment Roadmap***  
-  </p>
-
-  <ul>
-    <li>Phase 1: Research ██████ 65%</li>
-    <li>Phase 2: Clinical Validation ███████ 80%</li>
-    <li>Phase 3: Pilot Deployment ██████ 70%</li>
-    <li>Phase 4: Scale-Up ████████ 90%</li>
-    <li>Phase 5: Global Rollout █████████ 100% 🎯</li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
-    ***💡 Alternative Use Cases***  
-  </p>
-
-  <ol>
-    <li>Wellness Apps: Stress, focus, sleep insights 🧘</li>
-    <li>Research Tool: Neuroscience, BCI studies 🧑‍🔬</li>
-    <li>Occupational Safety: Fatigue & cognitive load 🚗</li>
-  </ol>
-
-  <hr>
-
-  <p align="center">
-    ***📚 Recommended Resources***  
-  </p>
-
-  <ul>
-    <li>Datasets: TUH EEG Corpus, CHB-MIT, SEED</li>
-    <li>Frameworks: MNE-Python, MOABB, TensorFlow Federated</li>
-    <li>Standards: ISO 13485, IEC 62304, FDA Digital Health 🏥</li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
-    ***✨ Vision Manifesto***  
-  </p>
-
-  <blockquote>
-  “Technology was never meant to dominate nature — it was meant to *understand* it.<br>
-  Enermark merges biology and logic, energy and empathy.<br>
-  Every pulse of data whispers a story of coexistence.”
-  </blockquote>
-
-  <hr>
-
-  <p align="center">
-    ***⚡ Try It Out***  
-  </p>
-
-  <ul>
-    <li>Figma Dashboard: claim-markup-58201942.figma.site</li>
-    <li>Netlify Demo: 68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app</li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
-    ***👩‍💻 Created By***  
-  </p>
-
-  <p align="center">
-    Senushi Dinara – Neuroscience & AI Enthusiast 🚀
-  </p>
+- Generates **cognitive heatmaps** 🔥 from EEG signals ⚡  
+- Processes EEG via **CNN + Transformer ensemble** 🤖  
+- Tracks **community engagement metrics** 📊  
+- Fully software-based, scalable, reproducible 🌐  
+- Interactive ASCII dashboards & gamified leaderboards 🎯  
 
 </details>
+
+<details>
+<summary>🏗 Architecture & Workflow</summary>
+
+🧠 EEG Signals (Input)
+│
+▼
+🔄 Preprocessing
+Noise Filtering & Feature Extraction
+│
+┌───────┼────────┐
+│       │        │
+⏱ Temporal  🌐 Spatial  🤖 CNN+Transformer
+Features   Features   - CNN: Spatial Patterns
+- Transformer: Sequences
+│
+▼
+Risk Scoring 📊
+│
+▼
+Confidence Levels
+│
+▼
+Dashboard Insights → Community Metrics
+
+</details>
+
+<details>
+<summary>🎨 Cognitive Risk Heatmap</summary>
+
+> ░ Low | ▒ Medium | ▓ High | █ Very High  
+
+Zone  Score  Heat
+A1    8/10   ████████ ▓▓▒░
+A2    6/10   ▓▓▓▓ ▓▒░▒▓
+A3    5/10   ▒▒▒ ▒▒░▓▒
+A4    1/10   ░ ░░░▒░
+A5    5/10   ▒▒▒ ▒▒▒▓░
+A6    2/10   ░ ░▒░░
+B1    6/10   ▓▓▓ ▓▓▒▒
+B2    6/10   ▓▓▓ ▓▒▓▒
+B3    5/10   ▒▒▒ ▒░▒▒
+C1    8/10   ███████ █▓▒▒░
+C2    5/10   ▒▒▒ ▒░▓▒
+C3    5/10   ▒▒▒ ▒░▒▒
+
+</details>
+
+<details>
+<summary>📊 KPI & Metrics</summary>
+
+Awareness          █████████ 87% 🌟
+Engagement         ███████░░ 76% 🎯
+Prediction Accuracy ██████████ 91% 🤖
+Session Logs       Participants tracked 📋
+
+</details>
+
+<details>
+<summary>🌍 Community Engagement & Gamification</summary>
+
+- 🏆 Sessions Attended: 47  
+- 🏅 Peers Educated: 12  
+- ✅ Assessments Completed: 3  
+
+**Leaderboard Simulation:**  
+
+🔥 LIVE RANKING 🔥
+1️⃣ Alice       ████████ 92
+2️⃣ Bob         ██████ 85
+3️⃣ You         ██████ 78
+
+- Challenges: Share stories, complete modules, earn points 🎯  
+
+</details>
+
+<details>
+<summary>🚀 Deployment Roadmap</summary>
+
+Phase 1: Research          ██████ 65%
+Phase 2: Clinical Validation ███████ 80%
+Phase 3: Pilot Deployment    ██████ 70%
+Phase 4: Scale-Up            ████████ 90%
+Phase 5: Global Rollout      █████████ 100% 🎯
+
+</details>
+
+<details>
+<summary>💻 Interactive Modules</summary>
+
+/modules/bio_core   → Life-energy intake 🔄
+/modules/neurosync  → Cognitive harmonizer ⚡
+/modules/cloud_map  → Contextual translator 🌐
+/modules/feedback   → Adaptive control mesh 🔁
+
+- Real-time ASCII dashboard: `[EEG → Heatmap → KPI → Leaderboard 🔄]`  
+- Adjustable formulas: `$Risk = Σ_i w_i f_i(x)/N$`  
+
+</details>
+
+<details>
+<summary>🎯 ASCII Animated Dashboards</summary>
+
+**Risk Score Animation (simulated)**  
+
+Risk Score: [░░░░░░░░░░] 0%
+Loading: ███░░░░░░ 30%
+Current: █████░░░░ 50%
+Calibrated: ███████░░ 75%
+Final: ██████████ 100% ✅
+
+**Top Brain Zones Activity**
+
+Fp1 [███░░░] 70%
+Fp2 [████░░] 80%
+F7  [██░░░] 55%
+F8  [█████░] 90%
+
+</details>
+
+<details>
+<summary>💬 Vision Manifesto</summary>
+
+> “Technology was never meant to dominate nature — it was meant to *understand* it.  
+> NeuroMapping merges biology and logic, energy and empathy.  
+> Every pulse of data whispers a story of coexistence.”  
+
+</details>
+
+<hr>
+
+<p align="center">
+**Try it out:**  
+[**Figma Prototype**](https://claim-markup-58201942.figma.site) | [**Netlify Demo**](https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app)
+</p>
+
+</details>
+
+
+⸻
+
+
+Do you want me to do that next?

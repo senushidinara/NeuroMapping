@@ -125,18 +125,28 @@ Use Cases
 	3.	Occupational Safety: Fatigue monitoring for drivers, pilots
 
 ⸻
-
-🔢 Calculations & Modules
-
-Signal-to-Noise Ratio (SNR)
-$$
-SNR = 10 \log_{10} \left(\frac{P_{\text{signal}}}{P_{\text{noise}}}\right)
-$$
-
-Risk Score
-$$
-\text{Risk Score} = \frac{\sum_{i=1}^{N} w_i \cdot f_i(x)}{N}
-$$
+  🧠 EEG Signals
+        (Simulated Input Data)
+                │
+                ▼
+        🔄 Preprocessing
+    Noise Filtering & Feature Extraction
+                │
+    ┌───────────┼──────────┐
+    │           │          │
+  Temporal     Spatial    🤖 CNN + Transformer
+  Features ⏱️   Features 🌐    Ensemble Model
+    │           │           - CNN: Spatial Patterns
+    │           └───────┐   - Transformer: Sequences
+    └──────────┐        ▼
+                ┌───────────────────────────┐
+                │    Risk Scoring 📊         │
+                └───────────────────────────┘
+                         │
+                         ▼
+                ┌───────────────────────────┐
+                │    Confidence Levels      │
+                └───────────────────────────
 
 Module Directory
 

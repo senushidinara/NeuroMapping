@@ -16,7 +16,22 @@ NeuroMapping is a **scalable, low-cost cognitive safety system** combining **EEG
 [📄 Click here to see the NeuroMapping Documentation and Plans](NeuroMapping-Early-Cognitive-Safety-in-Rural-Communities.pdf.pdf)
 
 
+# NeuroMapping: Early Cognitive Safety
 
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+
+  <img src="Caregiver placing EEG headband on elderly person; tablet showing vibrant frontal lobe heatmap.jpeg" width="300"/>
+  <img src="Colorful infographic-style visualization of community engagement, animated graphs, people icons interacting, points and badges appearing dynamically, futuristic UI overlay, high-resolution, vibrant colors, 3D perspective”.jpeg" width="300"/>
+  <img src="Digital dashboard overlay showing community feedback and engagement statistics, people interacting in background, graphs, points, and progress meters, vibrant and futuristic style, realistic scene lighting.jpeg" width="300"/>
+  <img src="Elderly person in rural Sri Lanka smiling, caregiver holding tablet, subtle heatmap overlay on head.jpeg" width="300"/>
+  <img src="Lab scene with formal EEG setup, researcher reviewing charts, and pilot community data projected on screen; controlled environment with notes.jpeg" width="300"/>
+  <img src="People teaching and learning together, digital charts and badges showing participation metrics, interactive progress, bright, uplifting environment, cinematic composition, high detail, diverse group”.jpeg" width="300"/>
+  <img src="Visual_ Caregiver conducting awareness session with 10–30 elderly participants; posters_charts showing cognitive health tips; attendees interacting__•_Style_Colors_ Warm, inviting tones (orange_yellow); realistic, friendly community scene; slight per.jpeg" width="300"/>
+  <img src="Visual_ Team of diverse researchers around a table, sketching a roadmap on paper and laptop screens; sticky notes with hackathon and research milestones__•_Style_Colors_ Warm, professional tones; soft lighting; modern flat-illustration; focus on coll.jpeg" width="300"/>
+  <img src="“Diverse community members attending an outdoor educational workshop, interactive learning sessions, people collaborating, bright and welcoming environment, infographic-style overlay showing engagement metrics, vibrant, realistic, cinematic lighting”.jpeg" width="300"/>
+  <img src="uuid=4FF6AAA9-AA00-4BB9-83B1-3E11E9430945&code=001&library=1&type=1&mode=1&loc=true&cap=true.jpeg" width="300"/>
+
+</div>
 
 **Key Features 💎**
 - Real-time **cognitive heatmaps** from EEG signals ⚡  

@@ -2,14 +2,16 @@
   <summary>
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-        <img src="banner-light.png" alt="NeuroMapping Banner" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://claim-markup-58201942.figma.site/banner-dark.png">
+        <img src="https://claim-markup-58201942.figma.site/banner-light.png" alt="NeuroMapping Banner" width="100%">
       </picture>
       <br>
       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NeuroMapping+Interactive;Cognitive+Safety+System;All+In+One+Box)](https://git.io/typing-svg)
       <br>
+      <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live+Demo-Netlify-brightgreen?style=for-the-badge" alt="Netlify Demo">
+      </a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue" alt="Stats Card" />
     </div>
   </summary>
 
@@ -87,7 +89,7 @@
     <li>🏆 Sessions: 47</li>
     <li>🏅 Peers Educated: 12</li>
     <li>✅ Assessments: 3</li>
-    <li>Leaderboard Placeholder: `[LIVE RANKING → 🔥🔥🔥]`</li>
+    <li>Leaderboard: `[LIVE RANKING → 🔥🔥🔥]`</li>
   </ul>
 
   <hr>
@@ -108,7 +110,7 @@
   <p align="center">
     ***💻 Interactive Features***
     <br>
-    Real-time dashboard mock: <code>[EEG → Heatmap → KPI → Leaderboard 🔄]</code><br>
+    Real-time dashboard mock: <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">[EEG → Heatmap → KPI → Leaderboard 🔄]</a><br>
     LaTeX formulas: <code>$Risk = \sum_i w_i f_i(x)/N$</code>
   </p>
   <p align="center">
@@ -120,24 +122,14 @@
   <hr>
 
   <p align="center">
-    ***🧩 Modules***
-  </p>
-  <ul>
-    <li>/modules/bio_core → Life-energy intake 🔄</li>
-    <li>/modules/neurosync → Cognitive harmonizer ⚡</li>
-    <li>/modules/cloud_map → Contextual translator 🌐</li>
-    <li>/modules/feedback → Adaptive control mesh 🔁</li>
-  </ul>
-
-  <hr>
-
-  <p align="center">
     ***🖼 Images, Stats & Badges***
     <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <br>
-    ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue)
+    <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
+      <img src="https://claim-markup-58201942.figma.site/dashboard-screenshot.png" alt="Dashboard Screenshot" width="80%">
+    </a>
     <br>
     [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fast+and+Efficient;Zero+Dependencies;Open+Source)](https://git.io/typing-svg)
   </p>

@@ -9,39 +9,33 @@
       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NeuroMapping+Interactive;Cognitive+Safety+System;All+In+One+Box)](https://git.io/typing-svg)
       <br>
       <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live+Demo-Netlify-brightgreen?style=for-the-badge" alt="Netlify Demo">
+        <img src="https://claim-markup-58201942.figma.site/live-demo-badge.png" alt="Netlify Demo" width="200">
       </a>
-      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge">
     </div>
   </summary>
 
   <br>
 
   <p align="center">
-    ***🌍 Overview***
-    <br><br>
-    NeuroMapping makes **cognitive awareness accessible worldwide** 🌱<br>
-    Combines **AI simulations + visual insights** to map cognitive risk and community engagement 🎨🤖
+    <strong>🌍 Overview</strong><br><br>
+    NeuroMapping makes <strong>cognitive awareness accessible worldwide</strong> 🌱<br>
+    Combines <strong>AI simulations + visual insights</strong> to map cognitive risk and community engagement 🎨🤖
   </p>
 
   <hr>
 
-  <p align="center">
-    ***🔹 Features***
-  </p>
+  <p align="center"><strong>🔹 Features</strong></p>
   <ul>
-    <li>Generates **cognitive heatmaps** 🔥 based on EEG signals ⚡</li>
-    <li>Processes EEG signals with **CNN + Transformer ensemble** 🤖</li>
-    <li>Tracks **community engagement metrics** 📊</li>
+    <li>Generates <strong>cognitive heatmaps</strong> 🔥 based on EEG signals ⚡</li>
+    <li>Processes EEG signals with <strong>CNN + Transformer ensemble</strong> 🤖</li>
+    <li>Tracks <strong>community engagement metrics</strong> 📊</li>
     <li>Fully software-based, scalable, reproducible 🌐</li>
     <li>Interactive dashboards and visuals 🎯</li>
   </ul>
 
   <hr>
 
-  <p align="center">
-    ***🏗 Architecture & Workflow***
-  </p>
+  <p align="center"><strong>🏗 Architecture & Workflow</strong></p>
   <p align="center">
     🧠 EEG Signals → 🔄 Preprocessing → ⏱ Temporal + 🌐 Spatial → CNN + Transformer<br>
     │<br>
@@ -51,9 +45,7 @@
 
   <hr>
 
-  <p align="center">
-    ***🎨 Cognitive Risk Heatmap***
-  </p>
+  <p align="center"><strong>🎨 Cognitive Risk Heatmap</strong></p>
   > ░ Low | ▒ Medium | ▓ High | █ Very High
   <table align="center">
     <tr><th>Zone</th><th>Score</th><th>Heat</th></tr>
@@ -73,18 +65,14 @@
 
   <hr>
 
-  <p align="center">
-    ***📊 KPI & Metrics***
-  </p>
+  <p align="center"><strong>📊 KPI & Metrics</strong></p>
   <p align="center">
     Awareness: 87% 🌟 &nbsp; | &nbsp; Engagement: 76% 🎯 &nbsp; | &nbsp; Prediction Accuracy: 91% 🤖 &nbsp; | &nbsp; Session Logs: Participant engagement tracked 📋 🔄
   </p>
 
   <hr>
 
-  <p align="center">
-    ***🌍 Community Engagement & Gamification***
-  </p>
+  <p align="center"><strong>🌍 Community Engagement & Gamification</strong></p>
   <ul>
     <li>🏆 Sessions: 47</li>
     <li>🏅 Peers Educated: 12</li>
@@ -94,9 +82,7 @@
 
   <hr>
 
-  <p align="center">
-    ***🚀 Deployment Roadmap***
-  </p>
+  <p align="center"><strong>🚀 Deployment Roadmap</strong></p>
   <ul>
     <li>Phase 1: Research ██████ 65%</li>
     <li>Phase 2: Clinical Validation ███████ 80%</li>
@@ -107,11 +93,10 @@
 
   <hr>
 
+  <p align="center"><strong>💻 Interactive Features</strong></p>
   <p align="center">
-    ***💻 Interactive Features***
-    <br>
-    Real-time dashboard mock: <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">[EEG → Heatmap → KPI → Leaderboard 🔄]</a><br>
-    LaTeX formulas: <code>$Risk = \sum_i w_i f_i(x)/N$</code>
+    Real-time dashboard mock: <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">[Click to Explore]</a><br>
+    Inline formula: <code>$Risk = \sum_i w_i f_i(x)/N$</code>
   </p>
   <p align="center">
     $$
@@ -121,24 +106,18 @@
 
   <hr>
 
-  <p align="center">
-    ***🖼 Images, Stats & Badges***
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <br>
+  <p align="center"><strong>🖼 Images, Stats & Badges</strong></p>
+  <div align="center">
     <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
       <img src="https://claim-markup-58201942.figma.site/dashboard-screenshot.png" alt="Dashboard Screenshot" width="80%">
     </a>
-    <br>
+    <br><br>
     [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fast+and+Efficient;Zero+Dependencies;Open+Source)](https://git.io/typing-svg)
-  </p>
+  </div>
 
   <hr>
 
-  <p align="center">
-    ***💬 Vision Manifesto***
-  </p>
+  <p align="center"><strong>💬 Vision Manifesto</strong></p>
   <p align="center">
     > “Technology was never meant to dominate nature — it was meant to *understand* it.<br>
     > NeuroMapping merges biology and logic, energy and empathy.<br>

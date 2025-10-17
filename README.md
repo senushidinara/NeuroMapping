@@ -81,7 +81,7 @@ C1 ███████  8/10 █
 | 1    | Alice    | ███████ 780 🔥 | 🏅 Gold |
 | 2    | Bob      | ██████░ 610 🔥 | 🏅 Silver |
 | 3    | Charlie  | █████░░ 540 🔥 | 🏅 Bronze |
-| 4    | Dinara   | ████░░░ 420 🔥 | ⭐ Participant |
+| 4    | Ethan   | ████░░░ 420 🔥 | ⭐ Participant |
 
 ---
 
@@ -156,7 +156,7 @@ Advanced Metrics
 🤝 Contributing, License & Support
 	•	See CONTRIBUTING.md for contribution guidelines
 	•	Licensed under the MIT License
-	•	Support: Open an issue or email youremail@example.com
+	•	Support: Open an issue or email senushidinara2005@gmail.com
 
 “Every pulse of data whispers a story of coexistence.”
 
@@ -167,6 +167,3 @@ Advanced Metrics
 
 ---
 
-If you want, I can **upgrade it further to include live-feel animated ASCII bars and dynamic KPIs** that visually “move” in Markdown itself while still being fully static and in one block.  
-
-Do you want me to do that next?

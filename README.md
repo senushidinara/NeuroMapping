@@ -1,23 +1,18 @@
 <details open>
   <summary>
     <div align="center">
-      <!-- Banner Image -->
-      <img src="https://claim-markup-58201942.figma.site/file/banner.png" alt="NeuroMapping Banner" width="100%">
+      <img src="./assets/banner.png" alt="NeuroMapping Banner" width="100%">
       <br><br>
-      
-      <!-- Netlify Demo Button -->
       <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
-        <img src="https://claim-markup-58201942.figma.site/file/demo-button.png" alt="Live Demo" width="200">
+        <img src="./assets/demo-button.png" alt="Live Demo" width="200">
       </a>
     </div>
   </summary>
 
   <br>
-
-  <p align="center">
-    <strong>🌍 Overview</strong><br><br>
-    NeuroMapping makes <strong>cognitive awareness accessible worldwide</strong> 🌱<br>
-    Combines <strong>AI simulations + visual insights</strong> to map cognitive risk and community engagement 🎨🤖
+  <p align="center"><strong>🌍 Overview</strong><br>
+  NeuroMapping makes <strong>cognitive awareness accessible worldwide</strong> 🌱<br>
+  Combines <strong>AI simulations + visual insights</strong> to map cognitive risk and community engagement 🎨🤖
   </p>
 
   <hr>
@@ -74,17 +69,16 @@
   <p align="center"><strong>💻 Interactive Features</strong></p>
   <p align="center">
     Real-time dashboard mock: <code>[EEG → Heatmap → KPI → Leaderboard 🔄]</code><br>
-    Risk formula:<br>
-    <code>Risk = Σ(w_i * f_i(x))/N</code>
+    Risk formula: <code>Risk = Σ(w_i * f_i(x))/N</code>
   </p>
 
   <hr>
 
   <p align="center"><strong>🖼 Dashboard Images</strong></p>
   <div align="center">
-    <img src="https://claim-markup-58201942.figma.site/file/dashboard-1.png" alt="Dashboard 1" width="45%">
+    <img src="./assets/dashboard1.png" alt="Dashboard 1" width="45%">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://claim-markup-58201942.figma.site/file/dashboard-2.png" alt="Dashboard 2" width="45%">
+    <img src="./assets/dashboard2.png" alt="Dashboard 2" width="45%">
   </div>
 
   <hr>
@@ -95,5 +89,4 @@
     NeuroMapping merges biology and logic, energy and empathy.<br>
     Every pulse of data whispers a story of coexistence.”
   </p>
-
 </details>

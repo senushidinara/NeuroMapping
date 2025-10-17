@@ -1,21 +1,27 @@
 <details open>
   <summary>
     <div align="center">
+      <!-- Banner Images (Dark/Light Mode) -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://claim-markup-58201942.figma.site/banner-dark.png">
-        <img src="https://claim-markup-58201942.figma.site/banner-light.png" alt="NeuroMapping Banner" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+        <img src="./assets/banner-light.png" alt="NeuroMapping Banner" width="100%">
       </picture>
       <br>
-      [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NeuroMapping+Interactive;Cognitive+Safety+System;All+In+One+Box)](https://git.io/typing-svg)
+      
+      <!-- Typing Effect Simulation (Static Image) -->
+      <img src="./assets/typing-banner.png" alt="Typing Effect Simulation" width="80%">
       <br>
+      
+      <!-- Netlify Demo Badge -->
       <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
-        <img src="https://claim-markup-58201942.figma.site/live-demo-badge.png" alt="Netlify Demo" width="200">
+        <img src="./assets/live-demo-badge.png" alt="Netlify Demo" width="200">
       </a>
     </div>
   </summary>
 
   <br>
 
+  <!-- Overview -->
   <p align="center">
     <strong>🌍 Overview</strong><br><br>
     NeuroMapping makes <strong>cognitive awareness accessible worldwide</strong> 🌱<br>
@@ -24,6 +30,7 @@
 
   <hr>
 
+  <!-- Features -->
   <p align="center"><strong>🔹 Features</strong></p>
   <ul>
     <li>Generates <strong>cognitive heatmaps</strong> 🔥 based on EEG signals ⚡</li>
@@ -35,6 +42,7 @@
 
   <hr>
 
+  <!-- Architecture & Workflow -->
   <p align="center"><strong>🏗 Architecture & Workflow</strong></p>
   <p align="center">
     🧠 EEG Signals → 🔄 Preprocessing → ⏱ Temporal + 🌐 Spatial → CNN + Transformer<br>
@@ -45,8 +53,10 @@
 
   <hr>
 
+  <!-- Cognitive Risk Heatmap -->
   <p align="center"><strong>🎨 Cognitive Risk Heatmap</strong></p>
   > ░ Low | ▒ Medium | ▓ High | █ Very High
+
   <table align="center">
     <tr><th>Zone</th><th>Score</th><th>Heat</th></tr>
     <tr><td>A1</td><td>8/10</td><td>████████ ▓▓▒░</td></tr>
@@ -65,6 +75,7 @@
 
   <hr>
 
+  <!-- KPI & Metrics -->
   <p align="center"><strong>📊 KPI & Metrics</strong></p>
   <p align="center">
     Awareness: 87% 🌟 &nbsp; | &nbsp; Engagement: 76% 🎯 &nbsp; | &nbsp; Prediction Accuracy: 91% 🤖 &nbsp; | &nbsp; Session Logs: Participant engagement tracked 📋 🔄
@@ -72,33 +83,13 @@
 
   <hr>
 
-  <p align="center"><strong>🌍 Community Engagement & Gamification</strong></p>
-  <ul>
-    <li>🏆 Sessions: 47</li>
-    <li>🏅 Peers Educated: 12</li>
-    <li>✅ Assessments: 3</li>
-    <li>Leaderboard: `[LIVE RANKING → 🔥🔥🔥]`</li>
-  </ul>
-
-  <hr>
-
-  <p align="center"><strong>🚀 Deployment Roadmap</strong></p>
-  <ul>
-    <li>Phase 1: Research ██████ 65%</li>
-    <li>Phase 2: Clinical Validation ███████ 80%</li>
-    <li>Phase 3: Pilot Deploy ██████ 70%</li>
-    <li>Phase 4: Scale-Up ████████ 90%</li>
-    <li>Phase 5: Global Rollout █████████ 100% 🎯</li>
-  </ul>
-
-  <hr>
-
+  <!-- Interactive Features -->
   <p align="center"><strong>💻 Interactive Features</strong></p>
   <p align="center">
-    Real-time dashboard mock: <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">[Click to Explore]</a><br>
-    Inline formula: <code>$Risk = \sum_i w_i f_i(x)/N$</code>
-  </p>
-  <p align="center">
+    Real-time dashboard mock: <code>[EEG → Heatmap → KPI → Leaderboard 🔄]</code><br>
+    LaTeX formulas:<br>
+    Inline: <code>$Risk = \sum_i w_i f_i(x)/N$</code><br>
+    Block:<br>
     $$
     SNR = 10 \log_{10} \left(\frac{P_{\text{signal}}}{P_{\text{noise}}}\right)
     $$
@@ -106,22 +97,25 @@
 
   <hr>
 
-  <p align="center"><strong>🖼 Images, Stats & Badges</strong></p>
+  <!-- Tech Stack / Badges -->
+  <p align="center"><strong>🖼 Tech Stack & Badges</strong></p>
   <div align="center">
-    <a href="https://68f209ab13de151e6c751b74--astonishing-vacherin-1e0361.netlify.app/" target="_blank">
-      <img src="https://claim-markup-58201942.figma.site/dashboard-screenshot.png" alt="Dashboard Screenshot" width="80%">
-    </a>
-    <br><br>
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fast+and+Efficient;Zero+Dependencies;Open+Source)](https://git.io/typing-svg)
+    <img src="./assets/python-badge.png" alt="Python" width="150">
+    <img src="./assets/tensorflow-badge.png" alt="TensorFlow" width="150">
+    <br>
+    <img src="./assets/demo-1.png" alt="Dashboard Demo 1" width="45%">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/demo-2.png" alt="Dashboard Demo 2" width="45%">
   </div>
 
   <hr>
 
+  <!-- Vision Manifesto -->
   <p align="center"><strong>💬 Vision Manifesto</strong></p>
   <p align="center">
-    > “Technology was never meant to dominate nature — it was meant to *understand* it.<br>
-    > NeuroMapping merges biology and logic, energy and empathy.<br>
-    > Every pulse of data whispers a story of coexistence.”
+    “Technology was never meant to dominate nature — it was meant to <em>understand</em> it.<br>
+    NeuroMapping merges biology and logic, energy and empathy.<br>
+    Every pulse of data whispers a story of coexistence.”
   </p>
 
 </details>

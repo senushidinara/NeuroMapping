@@ -11,7 +11,7 @@
 NeuroMapping is a **scalable, low-cost cognitive safety system** combining **EEG processing, AI simulations, and interactive dashboards** to map cognitive risk, predict fatigue/stress, and track community engagement.
 
 > "Technology was never meant to dominate nature—it was meant to *understand* it. NeuroMapping merges biology and logic, energy and empathy."
-
+[View NeuroMapping PDF](NeuroMapping-Early-Cognitive-Safety-in-Rural-Communities.pdf.pdf)
 **Key Features 💎**
 - Real-time **cognitive heatmaps** from EEG signals ⚡  
 - **CNN + Transformer ensemble** for intelligent pattern recognition 🤖  
